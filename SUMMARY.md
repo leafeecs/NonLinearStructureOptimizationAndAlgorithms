@@ -11,4 +11,5 @@
 * [5. Reference Structure of Binary Heap](5.-reference-structure-of-binary-heap.md)
 * [6. Insert Operation of Binary Heap](6.-insert-operation-of-binary-heap.md)
 * [7. Delete Operation of Binary Heap](7.-delete-operation-of-binary-heap.md)
+* [8. The Complexity of Priority Queue and Heap Sort](8.-the-complexity-of-priority-queue-and-heap-sort.md)
 
