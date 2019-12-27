@@ -37,4 +37,11 @@
 * [3. Hash Function](3.-hash-function.md)
 * [4. Examples of Hash Function](4.-examples-of-hash-function.md)
 * [5. Collision Resolution of Hashing](5.-collision-resolution-of-hashing.md)
+* [6. Deletion in Hash Table](6.-deletion-in-hash-table.md)
+* [7. Managing the Size of Hash Table](7.-managing-the-size-of-hash-table.md)
+
+## 5. Graph and Dijkstra's algorithm
+
+* [1. Graph](5.-graph-and-dijkstras-algorithm/1.-graph.md)
+* [2. Representation of Graph](2.-representation-of-graph.md)
 
