@@ -34,4 +34,6 @@
 
 * [1. Limit of Divide and Conquer](4.-hashing/1.-limit-of-divide-and-conquer.md)
 * [2. Hash Table](2.-hash-table.md)
+* [3. Hash Function](3.-hash-function.md)
+* [4. Examples of Hash Function](4.-examples-of-hash-function.md)
 
