@@ -30,3 +30,7 @@
 * [5. Counting Sort](o-n-sorting.md)
 * [6. Radix Sort](6.-merge-sort.md)
 
+## 4. Hashing
+
+* [1. Limit of Divide and Conquer](4.-hashing/1.-limit-of-divide-and-conquer.md)
+
