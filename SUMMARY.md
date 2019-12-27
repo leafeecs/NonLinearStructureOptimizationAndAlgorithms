@@ -36,4 +36,5 @@
 * [2. Hash Table](2.-hash-table.md)
 * [3. Hash Function](3.-hash-function.md)
 * [4. Examples of Hash Function](4.-examples-of-hash-function.md)
+* [5. Collision Resolution of Hashing](5.-collision-resolution-of-hashing.md)
 
