@@ -27,4 +27,5 @@
 * [2. Merge Sort](3.-sorting/2.-merge-sort.md)
 * [3. Heap Sort](3.-sorting/3.-heap-sort.md)
 * [4. Quick Sort](4.-quick-sort.md)
+* [O\(N\) Sorting](o-n-sorting.md)
 
