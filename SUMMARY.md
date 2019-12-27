@@ -44,4 +44,5 @@
 
 * [1. Graph](5.-graph-and-dijkstras-algorithm/1.-graph.md)
 * [2. Representation of Graph](2.-representation-of-graph.md)
+* [3. Traversing Problem - DFS and BFS](3.-traversing-problem-dfs-and-bfs.md)
 
