@@ -33,4 +33,5 @@
 ## 4. Hashing
 
 * [1. Limit of Divide and Conquer](4.-hashing/1.-limit-of-divide-and-conquer.md)
+* [2. Hash Table](2.-hash-table.md)
 
