@@ -1,4 +1,4 @@
-# O\(N\) Sorting
+# 5. Counting Sort
 
 ## O\(N\) Sorting
 
@@ -33,7 +33,7 @@
   * O\(N + R\)
   * R = the range of the sequence values
     * R = ranging from 0 to K
-    * In some case, if R is very big
+    * If R is very big, there is a problem to sort
   * N = the size of the sequence
 
 ![](.gitbook/assets/2019-12-26-6.31.54.png)

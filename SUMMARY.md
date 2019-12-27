@@ -23,9 +23,10 @@
 
 ## 3. Sorting
 
-* [1. O\(N²\) Sorting \(Selection Sort\)](3.-sorting/1.-o-n-sorting.md)
+* [1. Selection Sort](3.-sorting/1.-o-n-sorting.md)
 * [2. Merge Sort](3.-sorting/2.-merge-sort.md)
 * [3. Heap Sort](3.-sorting/3.-heap-sort.md)
 * [4. Quick Sort](4.-quick-sort.md)
-* [O\(N\) Sorting](o-n-sorting.md)
+* [5. Counting Sort](o-n-sorting.md)
+* [6. Radix Sort](6.-merge-sort.md)
 
