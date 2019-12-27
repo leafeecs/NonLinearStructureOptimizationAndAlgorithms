@@ -45,4 +45,6 @@
 * [1. Graph](5.-graph-and-dijkstras-algorithm/1.-graph.md)
 * [2. Representation of Graph](2.-representation-of-graph.md)
 * [3. Traversing Problem - DFS and BFS](3.-traversing-problem-dfs-and-bfs.md)
+* [4. Shortest Path Problem - Dijkstra's Algorithm \(1\)](4.-shortest-path-problem-dijkstras-algorithm-1.md)
+* [5. Shortest Path Problem - Dijkstra's Algorithm \(2\)](5.-shortest-path-problem-dijkstras-algorithm-2.md)
 
